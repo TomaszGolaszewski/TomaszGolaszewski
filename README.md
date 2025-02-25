@@ -28,7 +28,6 @@ In the past I've used also:
 - [Planes 2025](https://github.com/TomaszGolaszewski/Planes_2025) - 2D flight simulator with real forces
 
 <p align="center">
-    [<img src="https://github.com/TomaszGolaszewski/Tomasz_Empire_20022/blob/main/screens/screenshot5_20240114.png" alt="Tomasz Empire 20022 - Gameplay" style="width:45%; height:auto;">](https://github.com/TomaszGolaszewski/Tomasz_Empire_20022)
-    <!-- [<img src="https://github.com/TomaszGolaszewski/Planes_2025/screens/plane_2.png" alt="Planes 2025 - Gameplay" style="width:45%; height:auto;">](https://github.com/TomaszGolaszewski/Planes_2025) -->
+    <a href="https://github.com/TomaszGolaszewski/Tomasz_Empire_20022"><img src="https://github.com/TomaszGolaszewski/Tomasz_Empire_20022/blob/main/screens/screenshot5_20240114.png" alt="Tomasz Empire 20022 - Gameplay" style="width:50%; height:auto;"></a>
     <a href="https://github.com/TomaszGolaszewski/Planes_2025"><img src="https://github.com/TomaszGolaszewski/Planes_2025/blob/main/screens/plane_2.png" alt="Planes 2025 - Gameplay" style="width:45%; height:auto;"></a>
 </p>
