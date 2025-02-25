@@ -12,6 +12,7 @@ My backend stack:
 My GameDev stack: :smile: :joystick:
 - **Python + [PyGame](https://www.pygame.org/docs/)** <- my favorite :heart:
 - JavaScript + [ps5.js](https://p5js.org/) <- I'm learning right now :seedling:
+<br />
 In the past I've used also:
 - C# (Unity)
 - C++ (SFML)
@@ -20,8 +21,13 @@ In the past I've used also:
 ## My best (but not all) games
 
 ### Python
-- **[Tomasz Empire 20022: Supreme Leader](https://github.com/TomaszGolaszewski/Tomasz_Empire_20022)**
-- [Trains 2022](https://github.com/TomaszGolaszewski/Trains_2022)
+- **[Tomasz Empire 20022: Supreme Leader](https://github.com/TomaszGolaszewski/Tomasz_Empire_20022)** - RTS with procedurally generated maps
+- [Trains 2022](https://github.com/TomaszGolaszewski/Trains_2022) - railway node management simulator
 
 ### JavaScript
-- [Planes 2025](https://github.com/TomaszGolaszewski/Planes_2025)
+- [Planes 2025](https://github.com/TomaszGolaszewski/Planes_2025) - 2D flight simulator with real forces
+
+<p align="center">
+    [<img src="https://github.com/TomaszGolaszewski/Tomasz_Empire_20022/screens/screenshot5_20240114.png" alt="Tomasz Empire 20022 - Gameplay" style="width:45%; height:auto;">](https://github.com/TomaszGolaszewski/Tomasz_Empire_20022)
+    [<img src="https://github.com/TomaszGolaszewski/Planes_2025/screens/plane_2.png" alt="Planes 2025 - Gameplay" style="width:45%; height:auto;">](https://github.com/TomaszGolaszewski/Planes_2025)
+</p>
